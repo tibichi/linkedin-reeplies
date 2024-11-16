@@ -56,7 +56,7 @@ async function generateComment(event) {
 
     // Create a language model session with temperature and topK
     const session = await self.ai.languageModel.create({
-      systemPrompt: `Craft an engaging comment for this LinkedIn post. Tone should be casual/conversational and limited to 25 words (don't add double blank space at the end of sentences). Insert 1 appropriate emoji. Use @${postAuthor} (author's full name, including emojis, it can be integrated in the text - not the first word everytime) in the comment, including @. Please provide only the comment without options or any other extra explanations, for:`,
+      systemPrompt: `Craft an engaging comment for this LinkedIn post. Tone should be casual/conversational and limited to 25 words. Insert 1 appropriate emoji (not the one in author's name). Use @${postAuthor} in the comment (author's full name - including emojis and @). Please provide only the comment without options, tags or any other extra explanations, for:`,
       temperature: 0.7, // Creativity level
       topK: 80,        // Limits randomness
     });
