@@ -9,8 +9,8 @@ function addGenerateButton() {
       if (!firstCommentBox.querySelector('.generate-comment-btn')) {
         const generateButton = document.createElement('button');
         generateButton.className = 'generate-comment-btn comments-comment-box__detour-icons artdeco-button artdeco-button--circle artdeco-button--muted artdeco-button--2 artdeco-button--tertiary';
-        generateButton.setAttribute('aria-label', 'Generate Comment (reeplies.com)');
-        generateButton.setAttribute('title', 'Generate Comment (reeplies.com)');
+        generateButton.setAttribute('aria-label', 'Generate comment');
+        generateButton.setAttribute('title', 'Generate comment');
         generateButton.innerHTML = `
           <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="currentColor" class="icon icon-tabler icons-tabler-filled icon-tabler-windmill">
             <path stroke="none" d="M0 0h24v24H0z" fill="none"/>

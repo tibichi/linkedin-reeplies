@@ -2,7 +2,7 @@
   "manifest_version": 3,
   "name": "LinkedIn Reeplies",
   "version": "1.0",
-  "description": "One Click Comments on LinkedIn Posts.",
+  "description": "Generate comments on LinkedIn posts in no time.",
   "host_permissions": [
     "https://www.linkedin.com/*"
   ],
