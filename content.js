@@ -51,7 +51,7 @@ async function generateComment(event) {
   try {
     // Ensure the AI API is available
     if (!self.ai || !self.ai.languageModel) {
-      throw new Error("AI API is not available in this browser.");
+      throw new Error("Google Chrome Built-in AI APIs are not available in your browser.");
     }
 
     // Create a language model session with temperature and topK
