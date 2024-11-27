@@ -35,8 +35,8 @@ async function generateComment(event) {
 
   // Extract post content and author
   const postContainer = event.target.closest('.feed-shared-update-v2, .feed-shared-update-detail-viewer__right-panel');
-  let postContentElement = postContainer.querySelector('.update-components-text');
-  let postAuthorElement = postContainer.querySelector('.update-components-actor__name');
+  let postContentElement = postContainer.querySelector('.update-components-text > span > span');
+  let postAuthorElement = postContainer.querySelector('.update-components-actor__title > span > span');
 
   const postContent = postContentElement ? postContentElement.innerText.trim() : '';
   const postAuthor = postAuthorElement ? postAuthorElement.innerText.trim() : '';
