@@ -1,6 +1,6 @@
 function addGenerateButton() {
   const commentContainers = document.querySelectorAll('.feed-shared-update-v2, .feed-shared-update-detail-viewer__right-panel');
-  
+
   commentContainers.forEach(postContainer => {
     const commentBoxes = postContainer.querySelectorAll('.comments-comment-box__detour-container');
 
