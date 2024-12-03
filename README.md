@@ -6,9 +6,9 @@ Follow these steps to install and start using LinkedIn Reeplies:
 
 1. **Clone or Download the Repository**
    - Clone this repository to your local machine using:
-   ```bash
-   git clone https://github.com/tibichi/linkedin-reeplies.git
-   ```
+     ```bash
+     git clone https://github.com/tibichi/linkedin-reeplies.git
+     ```
    - Alternatively, download the repository as a ZIP file and extract it.
 
 2. **Open Chrome Extensions Page**
@@ -22,7 +22,7 @@ Follow these steps to install and start using LinkedIn Reeplies:
 4. **Start Using the Extension**
    - The extension should now appear in your Chrome toolbar.
 
-## Navigate to [LinkedIn](https://www.linkedin.com/) and get that conversation started!
+## Navigate to [LinkedIn](https://www.linkedin.com/). Get that conversation started!
 
 ![LinkedIn Reeplies](images/linkedin.png)
 
