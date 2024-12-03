@@ -1,3 +1,5 @@
+![LinkedIn Reeplies Logo](images/icon128.png)
+
 # LinkedIn Reeplies
 
 Follow these steps to install and start using LinkedIn Reeplies:
@@ -21,6 +23,8 @@ Follow these steps to install and start using LinkedIn Reeplies:
    - The extension should now appear in your Chrome toolbar.
 
 Navigate to LinkedIn and get that conversation started!
+
+![LinkedIn Reeplies](images/linkedin.png)
 
 ---
 
