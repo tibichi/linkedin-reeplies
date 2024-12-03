@@ -9,7 +9,7 @@ Follow these steps to install and start using LinkedIn Reeplies:
      ```bash
      git clone https://github.com/tibichi/linkedin-reeplies.git
      ```
-   - Alternatively, download the repository as a ZIP file and extract it.
+   - Alternatively, [download the repository](https://github.com/tibichi/linkedin-reeplies/archive/refs/heads/main.zip) as a ZIP file and extract it.
 
 2. **Open Chrome Extensions Page**
    - Open Google Chrome and navigate to `chrome://extensions/` in the address bar.
