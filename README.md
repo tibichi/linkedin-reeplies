@@ -26,6 +26,11 @@ Follow these steps to install and start using LinkedIn Reeplies:
 
 ![LinkedIn Reeplies](images/linkedin.png)
 
+## License
+
+This project is intended for evaluation purposes as part of Google Chrome Built-in AI Challenge. Unauthorized use or distribution is prohibited.
+
 ---
 
-The extension icon is from [Tabler Icons](https://tabler.io/icons), licensed under the MIT License.
+The extension icon is sourced from [Tabler Icons](https://tabler.io/icons), licensed under the MIT License.
+
