@@ -24,6 +24,8 @@ Follow these steps to install and start using LinkedIn Reeplies:
 
 Navigate to LinkedIn and get that conversation started!
 
+![LinkedIn Reeplies](images/linkedin.png)
+
 ---
 
 The extension icon is from https://tabler.io/icons, licensed under the MIT License.
