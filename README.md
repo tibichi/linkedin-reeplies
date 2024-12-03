@@ -22,7 +22,7 @@ Follow these steps to install and start using LinkedIn Reeplies:
 4. **Start Using the Extension**
    - The extension should now appear in your Chrome toolbar.
 
-## Navigate to [LinkedIn](https://www.linkedin.com/). Get that conversation started!
+## [Navigate to LinkedIn](https://www.linkedin.com/) - Get that conversation started!
 
 ![LinkedIn Reeplies](images/linkedin.png)
 
