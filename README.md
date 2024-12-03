@@ -1,3 +1,5 @@
+![LinkedIn Reeplies Logo](images/icon128.png)
+
 # LinkedIn Reeplies
 
 Follow these steps to install and start using LinkedIn Reeplies:
